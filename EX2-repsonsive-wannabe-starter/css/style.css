@@ -128,17 +128,27 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
+/* -----DESKTOP MIN-WIDHT 0 A 768 PX --------- */
+
+
+@media screen and (max-width:1160px) {
+    .container {
+        max-width: 1140px;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+    
+}  
+
 /* -----TABLET MIN-WIDHT 0 A 768 PX --------- */
 
- @media screen and (max-width: 768px) {
+@media screen and (max-width: 480px) {
     .container {
         max-width: 100%;
         margin: 0 auto;
         padding: 0 20px;
     }
- }
-
-
+}
 /* -----MOBILE MIN-WIDHT 0 A 480 PX --------- */
 
 @media screen and (max-width: 480px) {
