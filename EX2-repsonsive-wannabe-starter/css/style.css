@@ -137,7 +137,9 @@ img {
         margin: 0 auto;
         padding: 0 20px;
     }
-    
+    body{
+        overflow-x: auto;
+    }
 }  
 
 /* -----TABLET MIN-WIDHT 0 A 768 PX --------- */
