@@ -159,5 +159,14 @@ img {
         max-height: 200px;
         margin-bottom: 1rem;
     }
+    .why-us{
+        background-color: #222222;
+        margin: 0;
+        padding: 3rem 0;
+    }
+    .steps{
+        margin-top: 3rem;
+        margin-bottom: 0;
+    }
    
  }
