@@ -144,7 +144,7 @@ img {
 
 /* -----TABLET MIN-WIDHT 0 A 768 PX --------- */
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 768px) {
     .container {
         max-width: 100%;
         margin: 0 auto;
